@@ -1,1 +1,0 @@
-# co-trezor.github.com
